@@ -1,18 +1,18 @@
 ## importing a CSV file with a header
 
-`import pandas as pd`
-
-`url = '***************'`
-
-`df = pd.read_csv(url)`
+```python
+import pandas as pd
+url = '***************'
+df = pd.read_csv(url)
+```
 
 ## importing a CSV file without a header
 
-`import pandas as pd`
-
-`url = '***************'`
-
-`df = pd.read_csv(url, header = None)`
+```python
+import pandas as pd
+url = '***************'
+df = pd.read_csv(url, header = None)
+```
 
 ## Printing the dataframe in python
 
