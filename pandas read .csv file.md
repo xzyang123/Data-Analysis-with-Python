@@ -39,4 +39,10 @@ Save dataset using
 
 ## Exporting to different formats in Python
 
-![alt text](https://user-images.githubusercontent.com/61488535/80265053-0e5f0980-864b-11ea-95cc-db9bb05c3d7b.png "Logo Title Text 1")
+Data Format | Read | Save
+--- | --- | ---
+csv | pd.read_csv() | df.to_csv()
+json | pd.read_json() | df.to_json()
+Excel | pd.read_excel() | df.to_excel()
+sql | pd.read_sql() | df.to_sql()
+
