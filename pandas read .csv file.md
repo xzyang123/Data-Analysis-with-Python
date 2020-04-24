@@ -39,4 +39,4 @@ Save dataset using
 
 ## Exporting to different formats in Python
 
-![alt text](http://url/to/img.png)
+![alt text](https://user-images.githubusercontent.com/61488535/80265053-0e5f0980-864b-11ea-95cc-db9bb05c3d7b.png "Logo Title Text 1")
