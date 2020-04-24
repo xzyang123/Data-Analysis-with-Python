@@ -16,6 +16,26 @@ df = pd.read_csv(url, header = None)
 
 ## Printing the dataframe in python
 
-`df` 可以打印整个dataframe但是对于大容量文件而言很费时
+`df` show the entire dataframe but it costs time
+
 `df.head(n)` show first *n* rows
+
 `df.tail(n)` show bottom *n* rows
+
+## Adding hearders
+
+Replace default header `df.columns = headers`
+
+* First, you need to assign the new headers.
+  
+  headers = ['xx', 'xx', 'xxx',.....]
+  
+## Exporting a Pandas dataframe to CSV
+
+Save dataset using
+
+`path = 'C:\Windows\...\automobile.csv'`
+`df.to_csv(path)` 
+
+## Exporting to different formats in Python
+
