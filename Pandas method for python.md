@@ -20,6 +20,8 @@ datatime64, timedelta[ns] | N/A | time data
 
 `df.dtypes`
 
+## Data Distribution
+
 **Check statistical summary of each column**
 
 *learn about the distribution of data in each column*
@@ -39,3 +41,5 @@ datatime64, timedelta[ns] | N/A | time data
 * Provide top 30 rows and bottom 30 rows of the dataframe
 
 `df.info()`
+
+![alt text](https://user-images.githubusercontent.com/61488535/80266315-00f84e00-8650-11ea-9f93-2c322ddba406.png)
