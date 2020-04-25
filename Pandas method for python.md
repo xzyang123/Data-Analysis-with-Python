@@ -28,9 +28,14 @@ datatime64, timedelta[ns] | N/A | time data
 
 `df.describe()`
 
-![alt text](https://user-images.githubusercontent.com/61488535/80266083-fd17fc00-864e-11ea-8ffe-b525092f96a4.png "Logo Title Text 1")
+![alt text](https://user-images.githubusercontent.com/61488535/80266083-fd17fc00-864e-11ea-8ffe-b525092f96a4.png)
 
 * Provide full summary statistics
 
 `df.describe(include='all')`
 
+![alt text](https://user-images.githubusercontent.com/61488535/80266191-86c7c980-864f-11ea-8895-66fbf4c9751f.png)
+
+* Provide top 30 rows and bottom 30 rows of the dataframe
+
+`df.info()`
