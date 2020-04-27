@@ -22,7 +22,7 @@
 3. [Data formatting in Python](https://github.com/xzyang123/Data-Analysis-with-Python/blob/master/week2/Data%20formatting%20in%20python.md)
 4. [Data normalization in Python](https://github.com/xzyang123/Data-Analysis-with-Python/blob/master/week2/data%20normalization%20in%20Python.md)
 5. [Binning in Python](https://github.com/xzyang123/Data-Analysis-with-Python/blob/master/week2/Binning%20in%20Python.md)
-
+6. [Turning categorical variables into quantitative variables in Python](https://github.com/xzyang123/Data-Analysis-with-Python/blob/master/week2/Turning%20categorical%20variables%20into%20quantitative%20variables%20in%20Python.md)
 
 
 
