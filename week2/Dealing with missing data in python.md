@@ -33,7 +33,7 @@
 
 # How to replacing missing values in Python
 
-* Use `dataframe.replace(missing_value, new_value)`:
+* Use `dataframe.replace(missing_value, new_value, inplace = True)`:
 
 *replace the missing value (NaN) with the mean of the column*
 
