@@ -18,3 +18,4 @@
 * Binning
 * Indicator variables
 1. [Pre-processing data in python](https://github.com/xzyang123/Data-Analysis-with-Python/blob/master/week2/pre-processing%20data%20in%20python.md)
+2. [Dealing with missing values in Python](https://github.com/xzyang123/Data-Analysis-with-Python/blob/master/week2/Dealing%20with%20missing%20data%20in%20python.md)
