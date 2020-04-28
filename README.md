@@ -25,7 +25,7 @@
 5. [Binning in Python](https://github.com/xzyang123/Data-Analysis-with-Python/blob/master/week2/Binning%20in%20Python.md)
 6. [Turning categorical variables into quantitative variables in Python](https://github.com/xzyang123/Data-Analysis-with-Python/blob/master/week2/Turning%20categorical%20variables%20into%20quantitative%20variables%20in%20Python.md)
 
-### Week 2
+### Week 3
 * Descriptive Statistics
 * Basic of Grouping
 * ANOVA
