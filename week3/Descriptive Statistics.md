@@ -44,3 +44,25 @@ drive-wheels | &nbsp;
 fwd | 118
 rwd | 75
 4wd | 8
+
+## Descriptive statistics - box plots
+
+*The main features that the box plot shows are the median of the data, which represents where the middle data point is.*
+
+![alt text](https://github.com/xzyang123/Data-Analysis-with-Python/blob/master/week3/images/box%20plot.png?raw=true)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
