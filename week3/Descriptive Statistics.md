@@ -51,14 +51,48 @@ rwd | 75
 
 ![alt text](https://github.com/xzyang123/Data-Analysis-with-Python/blob/master/week3/images/box%20plot.png?raw=true)
 
+`sns.boxplot(x = 'drive-wheels', y = 'price', data = df)`
 
+![alt text](https://github.com/xzyang123/Data-Analysis-with-Python/blob/master/week3/images/box%20plot%20example.png?raw=true)
 
+## Descriptive statistics - Scatter plot
 
+**Oftentimes, we tend to see continuous variables in our data. These data points are numbers contained in some range.**
 
+    *What if we want to understand the relationship between engine size and price?*
+  
+    *Could engine size possibly predict the price of a car?*
 
+* Each observation in the scatter plot is represented as a point
 
+* scatter plot show the relationship between two variables
 
+1. predictor/independent variables on X-axis
 
+    *In this case, our predictor variable is the engine size.*
+
+    *The target variable is the variable that you are trying to predict.*
+
+2. Target/dependent variables on Y-axis
+
+    *In this case, our target variable is the price, since this would be the outcome.*
+
+![alt text](https://github.com/xzyang123/Data-Analysis-with-Python/blob/master/week3/images/scatter%20plot.png?raw=true)
+
+```python
+y = df['price']
+x = df['engine-size']
+plt.scatter(x,y)
+
+plt.title('scatterplot of Engine Size vs Price')
+plt.xlabel('Engine Size')
+plt.ylabel('price')
+```
+**how is the variable engine size related to price?**
+
+*From the scatter plot, we see that as the engine size goes up, the price of the car also goes up.*
+
+*This is giving us an initial indication that there is a positive linear relationship between these two variables.*
 
 
 
